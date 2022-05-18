@@ -11958,8 +11958,9 @@ fieldset:disabled .btn {
 }
 
 .aa01Logo {
-  height: 50px;
-  width: 130px;
+  height: 60px;
+  width: 205px;
+  margin-left: -25px;
 }
 
 .pr-0 {
@@ -11968,5 +11969,10 @@ fieldset:disabled .btn {
 
 .pl-0 {
   padding-left: 0px;
+}
+
+.navTopAaa {
+  -webkit-box-shadow: 0px 5px 20px #e6e6e6;
+          box-shadow: 0px 5px 20px #e6e6e6;
 }
 /*# sourceMappingURL=main.css.map */
