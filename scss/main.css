@@ -11958,6 +11958,7 @@ fieldset:disabled .btn {
 }
 
 .aa01Logo {
+  margin-top: 10px;
   height: 60px;
   width: 205px;
   margin-left: -25px;
@@ -11971,8 +11972,20 @@ fieldset:disabled .btn {
   padding-left: 0px;
 }
 
-.navTopAaa {
-  -webkit-box-shadow: 0px 5px 20px #e6e6e6;
-          box-shadow: 0px 5px 20px #e6e6e6;
+.mainImage {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.footerContent {
+  border-top: 1px solid black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: right;
+  padding-right: 10px;
+  font-size: 13px;
+  background-color: white;
 }
 /*# sourceMappingURL=main.css.map */
