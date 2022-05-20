@@ -11964,12 +11964,31 @@ fieldset:disabled .btn {
   margin-left: -25px;
 }
 
+.mr-30 {
+  margin-right: 30px;
+}
+
+.mb-0 {
+  margin-bottom: 0px;
+}
+
 .pr-0 {
   padding-right: 0px;
 }
 
 .pl-0 {
   padding-left: 0px;
+}
+
+.navTopAaa a:last-child {
+  text-decoration: none;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navTopAaa a:last-child h2, .navTopAaa a:last-child .h2 {
+  margin-bottom: 0px;
+  font-size: 20px;
 }
 
 .mainImage {
@@ -11979,6 +11998,7 @@ fieldset:disabled .btn {
 
 .footerContent {
   border-top: 1px solid black;
+  border-bottom: 1px solid black;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -11987,5 +12007,6 @@ fieldset:disabled .btn {
   padding-right: 30px;
   font-size: 13px;
   background-color: white;
+  font-family: 'Montserrat', sans-serif;
 }
 /*# sourceMappingURL=main.css.map */
